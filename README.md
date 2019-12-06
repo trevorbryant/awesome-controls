@@ -1,7 +1,7 @@
 # Awesome Controls
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome security controls mapping for compliance across frameworks.
+A collection of awesome security controls mapping for solutions across frameworks.
 
 Inspired by [awesome-security](https://github.com/sbilly/awesome-security).
 
@@ -11,6 +11,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
    - [National Institute of Standards and Technology](#national-institute-of-standards-and-technology)
      - [Risk Management Framework](#risk-management-framework)
      - [Cybersecurity Framework](#cybersecurity-framework)
+     - [National Initiative for Cybersecurity Education](#national-initiative-for-cybersecurity-framework)
    - [Center for Internet Security](#center-for-internet-security)
    - [MITRE ATT&CK](#mitre-att&ck)
 
@@ -26,8 +27,14 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 ### Cybersecurity Framework
 [Cybersecurity Framework Overview](https://www.nist.gov/cyberframework)
 
+ - [NIST](https://www.nist.gov/document/csfsubcategories-sp80053mappingxlsx) - NIST mapping of CSF categories to NIST SP 800-53 controls.
  - [Microsoft](http://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf) - Microsoft mapping of cybersecurity offerings across NIST CSF, CIS, and ISO27001:2013 frameworks.
  - [ForeScout](https://www.forescout.com/company/resources/improving-nist-csf-maturity-with-the-forescout-platform/) - CSF mapping across solutions provided by Forescout.
+
+### National Initiative for Cybersecurity Education
+[NICE Framework Overview](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-cybersecurity-workforce-framework-resource-center)
+
+  - [Certifications](https://www.nist.gov/document/illustrativemappingofcertificationstoniceframeworkversion10xlsx) - Illustrative mapping of certifications as created by the Health and Human Services Office of Information Security (OIS).
 
 ## Center for Internet Security
 
