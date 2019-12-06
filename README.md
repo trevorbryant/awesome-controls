@@ -5,7 +5,7 @@ A collection of awesome security controls mapping for compliance across framewor
 
 Inspired by [awesome-security](https://github.com/sbilly/awesome-security).
 
-Before contributing, please review the [Contribution Guidelines]().
+Before contributing, please review the [Contribution Guidelines](https://github.com/trevorbryant/awesome-controls/blob/master/contributing.md).
 
  - [Awesome Controls](#awesome-controls)
    - [National Institute of Standards and Technology](#national-institute-of-standards-and-technology)
