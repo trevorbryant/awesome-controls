@@ -22,7 +22,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 [Risk Management Framework Overview](https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview)
 
  - [Carbon Black](https://cdn.www.carbonblack.com/wp-content/uploads/2017/04/NIST-Special-Publication-800-53-Mapping-1.pdf) - Security and privacy controls for Federal information systems and organizations mapping for Carbon Black.
- - [ForeScout](https://www.forescout.com/company/resources/nist-risk-management-framework-and-forescout-counteract-datasheet/)  RMF controls mapping for ForeScout CounterACT.
+ - [ForeScout](https://www.forescout.com/company/resources/nist-risk-management-framework-and-forescout-counteract-datasheet/) - RMF controls mapping for ForeScout CounterACT.
  - [RedSeal](https://www.redseal.net/files/Compliance%20Datasheets/NIST%20Compliance%20with%20RedSeal.pdf)
  [PNNL](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-28347.pdf) Provide an overview of the Risk Management Framework (RMF) codified in National Institute of Standards & Technology (NIST) Special Publication (SP) 800-37r1 for the Federal Energy Management Program (FEMP). 
 
@@ -41,8 +41,8 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [Avecto](https://avectoweb.blob.core.windows.net/cms/1502/whitepaper-nist-cybersec-framework.pdf) 
  - [Qualys](http://www.cog-security.com/wp-content/uploads/2016/12/Qualys-SANS-Top-20-CSC-Mapping.pdf) 
  - [FFIEC Cybersecurity Assessment Tool](https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf) The following provides a mapping of the FFIEC Cybersecurity Assessment Tool (Assessment) to the statements included in the NIST Cybersecurity Framework. 
- -  [NIST CsF and HITRUST CSF Mapping ](https://www.us-cert.gov/sites/default/files/c3vp/framework_guidance/HPH_Framework_Implementation_Guidance.pdf) Table is based on initial mappings of the controls in the 2015 CSF v7 release to the NIST CsF subcategories. 
- -  [HIPAA](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf) HIPAA Security Rule Crosswalk to NIST Cybersecurity Framework
+ -  NIST CSF and HITRUST CSF Mapping ](https://www.us-cert.gov/sites/default/files/c3vp/framework_guidance/HPH_Framework_Implementation_Guidance.pdf) Table is based on initial mappings of the controls in the 2015 CSF v7 release to the NIST CsF subcategories. 
+ - [HIPAA](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf) HIPAA Security Rule Crosswalk to NIST Cybersecurity Framework
 
 ### National Initiative for Cybersecurity Education
 [NICE Framework Overview](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-cybersecurity-workforce-framework-resource-center)
