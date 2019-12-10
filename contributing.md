@@ -1,13 +1,13 @@
 # Contribution Guidelines
 
-Copied with 💙 from [awesome-security](https://github.com/sbilly/awesome-security/blob/master/contributing.md). 
+Copied with 💙 from [awesome-security](https://github.com/sbilly/awesome-security/blob/master/contributing.md).
 
 Please ensure your pull request adheres to the following guidelines:
 
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[List Name](link)`
+- Use the following format: `- [List Name](link) -`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
