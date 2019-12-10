@@ -41,7 +41,7 @@ Core
  - [ForcePoint](https://www.forcepoint.com/sites/default/files/resources/files/solution_brief_nist_framework_en.pdf) - Forcepoint’s Human Point System high level mapping to NIST CSF.
  - [Avecto](https://avectoweb.blob.core.windows.net/cms/1502/whitepaper-nist-cybersec-framework.pdf) - Avecto white paper to secure user privileges.
  - [FFIEC Cybersecurity Assessment Tool](https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf) - FFIEC Cybersecurity Assessment Tool to organizational implementation of the NIST CSF.
- - [NIST CSF and HITRUST CSF Mapping](https://www.us-cert.gov/sites/default/files/c3vp/framework_guidance/HPH_Framework_Implementation_Guidance.pdf) - Table is based on initial mappings of the controls in the 2015 CSF v7 release to the NIST CsF subcategories.
+ - [NIST CSF and HITRUST CSF Mapping](https://www.us-cert.gov/sites/default/files/c3vp/framework_guidance/HPH_Framework_Implementation_Guidance.pdf) - Table is based on initial mappings of the controls in the 2015 CSF v7 release to the NIST CSF subcategories.
  - [HIPAA](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf) - HIPAA Security Rule Crosswalk to NIST Cybersecurity Framework
 
 ### National Initiative for Cybersecurity Education
