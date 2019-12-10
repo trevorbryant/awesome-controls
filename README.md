@@ -3,8 +3,6 @@
 
 A collection of awesome security controls mapping for solutions across frameworks.
 
-Inspired by [awesome-security](https://github.com/sbilly/awesome-security).
-
 Before contributing, please review the [Contribution Guidelines](https://github.com/trevorbryant/awesome-controls/blob/master/contributing.md).
 
  - [Awesome Controls](#awesome-controls)
