@@ -27,6 +27,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [PNNL](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-28347.pdf) - Overview of the Risk Management Framework (RMF) codified in NIST Special Publication (SP) 800-37r1 for the Federal Energy Management Program (FEMP).
  - [OpenShift](https://openshift-compliance-guide.readthedocs.io/en/latest/controls.html#control) - RedHat's OpenShift security control satisfaction per capability and tenant relationship.
  - [SIMP](https://simp.readthedocs.io/en/master/security_mapping/controls/nist80053rev4/800-53-controls.html) - Onyx Point's System Integrity Management Platform (SIMP) security controls satisfaction per capability.
+ - [VMWare](https://blogs.vmware.com/cloud-foundation/2019/08/08/compliance-kit-nist-800-53/) - VMWare compliance kit mapping control satisfaction by configuration hardening and applicability.
 
 ### Cybersecurity Framework
 [Cybersecurity Framework Overview](https://www.nist.gov/cyberframework)
