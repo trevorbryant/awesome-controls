@@ -25,6 +25,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [ForeScout](https://www.forescout.com/company/resources/nist-risk-management-framework-and-forescout-counteract-datasheet/) - RMF controls mapping for ForeScout CounterACT.
  - [RedSeal](https://www.redseal.net/files/Compliance%20Datasheets/NIST%20Compliance%20with%20RedSeal.pdf) - RedSeal’s cybersecurity capabilities closely align with many of the controls in NIST 800-53r4.
  - [PNNL](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-28347.pdf) - Overview of the Risk Management Framework (RMF) codified in NIST Special Publication (SP) 800-37r1 for the Federal Energy Management Program (FEMP).
+ - [OpenShift](https://openshift-compliance-guide.readthedocs.io/en/latest/controls.html#control) - RedHat's OpenShift security control satisfaction per capability and tenant relationship.
 
 ### Cybersecurity Framework
 [Cybersecurity Framework Overview](https://www.nist.gov/cyberframework)
