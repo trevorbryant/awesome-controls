@@ -37,6 +37,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [Sentinel One](https://go.sentinelone.com/rs/327-MNM-087/images/NIST_WP.pdf) - Breakdown of SentinelOne addressing each of the five function within the NIST Framework
 Core
  - [Aruba](https://www.arubanetworks.com/assets/wp/WP_SecuritySolutionsNIST.pdf) - Aruba 360 Secure Fabric mapping other frameworks to overall NIST CSF.
+ - [Tanium](https://info.tanium.com/l/286192/2017-12-14/pwz19/286192/43692/Tanium_and_NIST_Framework_Web.pdf) - Tanium modules addressing NIST CSF.
  - [Titus](https://www.titus.com/nist-cybersecurity) - Titus solutions aligning with the Identify, Detect, and Respond functions of the Framework.
  - [McAfee](https://www.mcafee.com/enterprise/en-us/assets/guides/restricted/gd-nist-cybersecurity-framework-mapping.pdf)- McAfee mapping CSF to solutions and partner solutions.
  - [ForcePoint](https://www.forcepoint.com/sites/default/files/resources/files/solution_brief_nist_framework_en.pdf) - Forcepoint’s Human Point System high level mapping to NIST CSF.
