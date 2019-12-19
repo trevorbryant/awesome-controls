@@ -60,3 +60,7 @@ Core
 ## MITRE ATT&CK
 
  - [Evaluations](https://attackevals.mitre.org/) - MITRE evaluates cybersecurity products using an open methodology based on the ATT&CK™ framework.
+
+## HIPAA
+
+ - [IBM](https://www.ibm.com/downloads/cas/YA367DR0) - IBM solutions and modules mapping to the HIPAA framework.
