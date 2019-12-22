@@ -24,6 +24,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 ## HIPAA
 
  - [IBM](https://www.ibm.com/downloads/cas/YA367DR0) - IBM solutions and modules mapping to the HIPAA framework.
+ - [HIPAA](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf) - HIPAA Security Rule Crosswalk to NIST Cybersecurity Framework.
 
 ## MITRE ATT&CK
 [MITRE ATT&CK Design and Philosophy](https://www.mitre.org/publications/technical-papers/mitre-attack-design-and-philosophy)
@@ -41,7 +42,6 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [FFIEC Cybersecurity Assessment Tool](https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf) - FFIEC Cybersecurity Assessment Tool to organizational implementation of the NIST CSF.
  - [ForcePoint](https://www.forcepoint.com/sites/default/files/resources/files/solution_brief_nist_framework_en.pdf) - Forcepoint’s Human Point System high level mapping to NIST CSF.
  - [ForeScout](https://www.forescout.com/company/resources/improving-nist-csf-maturity-with-the-forescout-platform/) - CSF mapping across solutions provided by ForeScout.
- - [HIPAA](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf) - HIPAA Security Rule Crosswalk to NIST Cybersecurity Framework
  - [McAfee](https://www.mcafee.com/enterprise/en-us/assets/guides/restricted/gd-nist-cybersecurity-framework-mapping.pdf)- McAfee mapping CSF to solutions and partner solutions.
  - [Microsoft](http://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf) - Microsoft mapping of cybersecurity offerings across NIST CSF, CIS, and ISO27001:2013 frameworks.
  - [NIST](https://www.nist.gov/document/csfsubcategories-sp80053mappingxlsx) - NIST mapping of CSF categories to NIST SP 800-53 controls.
