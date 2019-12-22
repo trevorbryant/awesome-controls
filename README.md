@@ -22,6 +22,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [Qualys](http://www.cog-security.com/wp-content/uploads/2016/12/Qualys-SANS-Top-20-CSC-Mapping.pdf) - Qualys correlating the CIS Critical Security Controls 2016 from NIST CSF.
 
 ## HIPAA
+[HIPAA Security Rule Overview](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)
 
  - [IBM](https://www.ibm.com/downloads/cas/YA367DR0) - IBM solutions and modules mapping to the HIPAA framework.
  - [HIPAA](https://www.hhs.gov/sites/default/files/nist-csf-to-hipaa-security-rule-crosswalk-02-22-2016-final.pdf) - HIPAA Security Rule Crosswalk to NIST Cybersecurity Framework.
