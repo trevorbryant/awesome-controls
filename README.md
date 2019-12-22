@@ -6,26 +6,31 @@ A collection of awesome security controls mapping for solutions across framework
 Before contributing, please review the [Contribution Guidelines](https://github.com/trevorbryant/awesome-controls/blob/master/contributing.md).
 
  - [Awesome Controls](#awesome-controls)
-   - [National Institute of Standards and Technology](#national-institute-of-standards-and-technology)
-     - [Risk Management Framework](#risk-management-framework)
-     - [Cybersecurity Framework](#cybersecurity-framework)
-     - [National Initiative for Cybersecurity Education](#national-initiative-for-cybersecurity-education)
    - [Center for Internet Security](#center-for-internet-security)
-   - [MITRE ATT&CK](#mitre-att&ck)
+   - [HIPAA](#hipaa)
+   - [MITRE ATT&CK](#mitre-att&ck)   
+   - [National Institute of Standards and Technology](#national-institute-of-standards-and-technology)
+     - [Cybersecurity Framework](#cybersecurity-framework)
+     - [National Initiative for Cybersecurity Education](#national-initiative-for-cybersecurity-education)     
+     - [Risk Management Framework](#risk-management-framework)
 
+## Center for Internet Security
+[Center for Internet Security Overview](https://www.cisecurity.org/about-us/)
+
+ - [20 CIS Controls & Resources](https://www.cisecurity.org/controls/) - The top 20 critical security controls as recommended by CIS.
+ - [Tanium](https://info.tanium.com/l/286192/2017-02-01/3xf4/286192/3443/CIS_Critical_Security_Conntrols_Checklist.pdf) - Tanium solutions and modules aligning to the CIS controls.
+ - [Qualys](http://www.cog-security.com/wp-content/uploads/2016/12/Qualys-SANS-Top-20-CSC-Mapping.pdf) - Qualys correlating the CIS Critical Security Controls 2016 from NIST CSF.
+
+## HIPAA
+
+ - [IBM](https://www.ibm.com/downloads/cas/YA367DR0) - IBM solutions and modules mapping to the HIPAA framework.
+
+## MITRE ATT&CK
+[MITRE ATT&CK Design and Philosophy](https://www.mitre.org/publications/technical-papers/mitre-attack-design-and-philosophy)
+
+ - [Evaluations](https://attackevals.mitre.org/) - MITRE evaluates cybersecurity products using an open methodology based on the ATT&CK™ framework.
 
 ## National Institute of Standards and Technology
-
-### Risk Management Framework
-[Risk Management Framework Overview](https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview)
-
- - [Carbon Black](https://cdn.www.carbonblack.com/wp-content/uploads/2017/04/NIST-Special-Publication-800-53-Mapping-1.pdf) - Security and privacy controls for Federal information systems and organizations mapping for Carbon Black.
- - [ForeScout](https://www.forescout.com/company/resources/nist-risk-management-framework-and-forescout-counteract-datasheet/) - RMF controls mapping for ForeScout CounterACT.
- - [RedSeal](https://www.redseal.net/files/Compliance%20Datasheets/NIST%20Compliance%20with%20RedSeal.pdf) - RedSeal’s cybersecurity capabilities closely align with many of the controls in NIST 800-53r4.
- - [PNNL](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-28347.pdf) - Overview of the Risk Management Framework (RMF) codified in NIST Special Publication (SP) 800-37r1 for the Federal Energy Management Program (FEMP).
- - [OpenShift](https://openshift-compliance-guide.readthedocs.io/en/latest/controls.html#control) - RedHat's OpenShift security control satisfaction per capability and tenant relationship.
- - [SIMP](https://simp.readthedocs.io/en/master/security_mapping/controls/nist80053rev4/800-53-controls.html) - Onyx Point's System Integrity Management Platform (SIMP) security controls satisfaction per capability.
- - [VMWare](https://blogs.vmware.com/cloud-foundation/2019/08/08/compliance-kit-nist-800-53/) - VMWare compliance kit mapping control satisfaction by configuration hardening and applicability.
 
 ### Cybersecurity Framework
 [Cybersecurity Framework Overview](https://www.nist.gov/cyberframework)
@@ -35,7 +40,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [AWS](https://d1.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf) - Evaluate and align the NIST CSF and the many AWS Cloud offerings public and commercial.
  - [ForeScout](https://www.forescout.com/company/resources/improving-nist-csf-maturity-with-the-forescout-platform/) - CSF mapping across solutions provided by ForeScout.
  - [Sentinel One](https://go.sentinelone.com/rs/327-MNM-087/images/NIST_WP.pdf) - Breakdown of SentinelOne addressing each of the five function within the NIST Framework
-Core
+Core.
  - [Aruba](https://www.arubanetworks.com/assets/wp/WP_SecuritySolutionsNIST.pdf) - Aruba 360 Secure Fabric mapping other frameworks to overall NIST CSF.
  - [Tanium](https://info.tanium.com/l/286192/2017-12-14/pwz19/286192/43692/Tanium_and_NIST_Framework_Web.pdf) - Tanium solutions and modules addressing NIST CSF.
  - [Titus](https://www.titus.com/nist-cybersecurity) - Titus solutions aligning with the Identify, Detect, and Respond functions of the Framework.
@@ -49,19 +54,16 @@ Core
 ### National Initiative for Cybersecurity Education
 [NICE Framework Overview](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-cybersecurity-workforce-framework-resource-center)
 
-  - [Certifications](https://www.nist.gov/document/illustrativemappingofcertificationstoniceframeworkversion10xlsx) - Illustrative mapping of certifications as created by the Health and Human Services Office of Information Security (OIS).
-  - [NICCS](https://niccs.us-cert.gov/workforce-development/cyber-security-workforce-framework) - A taxonomy and common lexicon to describe cybersecurity work, and workers, regardless of where, or for whom, the work is performed.
+ - [Certifications](https://www.nist.gov/document/illustrativemappingofcertificationstoniceframeworkversion10xlsx) - Illustrative mapping of certifications as created by the Health and Human Services Office of Information Security (OIS).
+ - [NICCS](https://niccs.us-cert.gov/workforce-development/cyber-security-workforce-framework) - A taxonomy and common lexicon to describe cybersecurity work, and workers, regardless of where, or for whom, the work is performed.
 
-## Center for Internet Security
+### Risk Management Framework
+[Risk Management Framework Overview](https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview)
 
- - [20 CIS Controls & Resources](https://www.cisecurity.org/controls/) - The top 20 critical security controls as recommended by CIS.
- - [Tanium](https://info.tanium.com/l/286192/2017-02-01/3xf4/286192/3443/CIS_Critical_Security_Conntrols_Checklist.pdf) - Tanium solutions and modules aligning to the CIS controls.
- - [Qualys](http://www.cog-security.com/wp-content/uploads/2016/12/Qualys-SANS-Top-20-CSC-Mapping.pdf) - Qualys correlating the CIS Critical Security Controls 2016 from NIST CSF
-
-## MITRE ATT&CK
-
- - [Evaluations](https://attackevals.mitre.org/) - MITRE evaluates cybersecurity products using an open methodology based on the ATT&CK™ framework.
-
-## HIPAA
-
- - [IBM](https://www.ibm.com/downloads/cas/YA367DR0) - IBM solutions and modules mapping to the HIPAA framework.
+ - [Carbon Black](https://cdn.www.carbonblack.com/wp-content/uploads/2017/04/NIST-Special-Publication-800-53-Mapping-1.pdf) - Security and privacy controls for Federal information systems and organizations mapping for Carbon Black.
+ - [ForeScout](https://www.forescout.com/company/resources/nist-risk-management-framework-and-forescout-counteract-datasheet/) - RMF controls mapping for ForeScout CounterACT.
+ - [RedSeal](https://www.redseal.net/files/Compliance%20Datasheets/NIST%20Compliance%20with%20RedSeal.pdf) - RedSeal’s cybersecurity capabilities closely align with many of the controls in NIST 800-53r4.
+ - [PNNL](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-28347.pdf) - Overview of the Risk Management Framework (RMF) codified in NIST Special Publication (SP) 800-37r1 for the Federal Energy Management Program (FEMP).
+ - [OpenShift](https://openshift-compliance-guide.readthedocs.io/en/latest/controls.html#control) - RedHat's OpenShift security control satisfaction per capability and tenant relationship.
+ - [SIMP](https://simp.readthedocs.io/en/master/security_mapping/controls/nist80053rev4/800-53-controls.html) - Onyx Point's System Integrity Management Platform (SIMP) security controls satisfaction per capability.
+ - [VMWare](https://blogs.vmware.com/cloud-foundation/2019/08/08/compliance-kit-nist-800-53/) - VMWare compliance kit mapping control satisfaction by configuration hardening and applicability.
