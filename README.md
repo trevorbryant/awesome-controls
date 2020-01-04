@@ -40,6 +40,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [Aruba](https://www.arubanetworks.com/assets/wp/WP_SecuritySolutionsNIST.pdf) - Aruba 360 Secure Fabric mapping other frameworks to overall NIST CSF.
  - [Avecto](https://avectoweb.blob.core.windows.net/cms/1502/whitepaper-nist-cybersec-framework.pdf) - Avecto white paper to secure user privileges.
  - [AWS](https://d1.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf) - Evaluate and align the NIST CSF and the many AWS Cloud offerings public and commercial.
+ - [Concurrency](https://www.concurrency.com/getmedia/4d4161fe-0f74-45ad-a33b-bd921c1238ba/Concurrency-NIST-(NCF)-and-GDPR-to-Microsoft-Technologies-Map.aspx) - Concurrency correlates Microsoft technologies to NIST CSF, RMF, ISO, and GDPR.
  - [FFIEC Cybersecurity Assessment Tool](https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf) - FFIEC Cybersecurity Assessment Tool to organizational implementation of the NIST CSF.
  - [ForcePoint](https://www.forcepoint.com/sites/default/files/resources/files/solution_brief_nist_framework_en.pdf) - Forcepoint’s Human Point System high level mapping to NIST CSF.
  - [ForeScout](https://www.forescout.com/company/resources/improving-nist-csf-maturity-with-the-forescout-platform/) - CSF mapping across solutions provided by ForeScout.
@@ -62,6 +63,8 @@ Core.
 [Risk Management Framework Overview](https://csrc.nist.gov/projects/risk-management/risk-management-framework-(RMF)-Overview)
 
  - [Carbon Black](https://cdn.www.carbonblack.com/wp-content/uploads/2017/04/NIST-Special-Publication-800-53-Mapping-1.pdf) - Security and privacy controls for Federal information systems and organizations mapping for Carbon Black.
+ - [Concurrency](https://www.concurrency.com/getmedia/4d4161fe-0f74-45ad-a33b-bd921c1238ba/Concurrency-NIST-(NCF)-and-GDPR-to-Microsoft-Technologies-Map.aspx) - Concurrency correlates Microsoft technologies to NIST CSF, RMF, ISO, and GDPR
+.
  - [ForeScout](https://www.forescout.com/company/resources/nist-risk-management-framework-and-forescout-counteract-datasheet/) - RMF controls mapping for ForeScout CounterACT.
  - [RedSeal](https://www.redseal.net/files/Compliance%20Datasheets/NIST%20Compliance%20with%20RedSeal.pdf) - RedSeal’s cybersecurity capabilities closely align with many of the controls in NIST 800-53r4.
  - [PNNL](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-28347.pdf) - Overview of the Risk Management Framework (RMF) codified in NIST Special Publication (SP) 800-37r1 for the Federal Energy Management Program (FEMP).
