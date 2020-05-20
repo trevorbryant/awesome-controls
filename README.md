@@ -39,7 +39,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
 
  - [Aruba](https://www.arubanetworks.com/assets/wp/WP_SecuritySolutionsNIST.pdf) - Aruba 360 Secure Fabric mapping other frameworks to overall NIST CSF.
  - [Avecto](https://avectoweb.blob.core.windows.net/cms/1502/whitepaper-nist-cybersec-framework.pdf) - Avecto white paper to secure user privileges.
- - [AWS](https://d1.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf) - Evaluate and align the NIST CSF and the many AWS Cloud offerings public and commercial.
+ - [AWS](https://d1.awsstatic.com/whitepapers/compliance/AWS_Services_and_Customer_Responsibility_Matrix_for_Alignment_to_the_CSF.fca4b7f5c7282cc221dee72732624a0389aa2596.xlsx) - Evaluate and align the NIST CSF and the many AWS Cloud offerings public and commercial.
  - [Cisco](https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2018/pdf/BRKSEC-1021.pdf) - Detailed presentation from Cisco LIVE! on Cisco's portfolio to CSF satisfaction.
  - [Concurrency](https://www.concurrency.com/getmedia/4d4161fe-0f74-45ad-a33b-bd921c1238ba/Concurrency-NIST-(NCF)-and-GDPR-to-Microsoft-Technologies-Map.aspx) - Concurrency correlates Microsoft technologies to NIST CSF, RMF, ISO, and GDPR.
  - [FFIEC Cybersecurity Assessment Tool](https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf) - FFIEC Cybersecurity Assessment Tool to organizational implementation of the NIST CSF.
