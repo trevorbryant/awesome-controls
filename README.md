@@ -49,6 +49,7 @@ Before contributing, please review the [Contribution Guidelines](https://github.
  - [Microsoft](http://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf) - Microsoft mapping of cybersecurity offerings across NIST CSF, CIS, and ISO27001:2013 frameworks.
  - [NIST](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf) - NIST mapping of CSF categories to NIST SP 800-53 controls.
  - [NIST CSF and HITRUST CSF Mapping](https://www.us-cert.gov/sites/default/files/c3vp/framework_guidance/HPH_Framework_Implementation_Guidance.pdf) - Table is based on initial mappings of the controls in the 2015 CSF v7 release to the NIST CSF subcategories.
+ - [Mapping PCI DSS v3.2.1 to the NIST Cybersecurity Framework v1.1](https://www.pcisecuritystandards.org/pdfs/Mapping-PCI-DSS-to-NIST-Framework.pdf) - The resultant mapping shows where the NIST Framework and PCI DSS contribute to the same security outcomes.
  - [Sentinel One](https://go.sentinelone.com/rs/327-MNM-087/images/NIST_WP.pdf) - Breakdown of SentinelOne addressing each of the five function within the NIST Framework
 Core.
  - [Tanium](https://info.tanium.com/l/286192/2017-12-14/pwz19/286192/43692/Tanium_and_NIST_Framework_Web.pdf) - Tanium solutions and modules addressing NIST CSF.
